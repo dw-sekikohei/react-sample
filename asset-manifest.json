@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-sample.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-sample.git/static/js/main.d6076e89.chunk.js",
-    "main.js.map": "/react-sample.git/static/js/main.d6076e89.chunk.js.map",
-    "runtime-main.js": "/react-sample.git/static/js/runtime-main.e22ee030.js",
-    "runtime-main.js.map": "/react-sample.git/static/js/runtime-main.e22ee030.js.map",
-    "static/js/2.f7b4add9.chunk.js": "/react-sample.git/static/js/2.f7b4add9.chunk.js",
-    "static/js/2.f7b4add9.chunk.js.map": "/react-sample.git/static/js/2.f7b4add9.chunk.js.map",
-    "index.html": "/react-sample.git/index.html",
-    "precache-manifest.6b8a496f661a5037690bd8816e0a675c.js": "/react-sample.git/precache-manifest.6b8a496f661a5037690bd8816e0a675c.js",
-    "service-worker.js": "/react-sample.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-sample.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f7b4add9.chunk.js.LICENSE.txt": "/react-sample.git/static/js/2.f7b4add9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-sample.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-sample/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-sample/static/js/main.cab7e8b5.chunk.js",
+    "main.js.map": "/react-sample/static/js/main.cab7e8b5.chunk.js.map",
+    "runtime-main.js": "/react-sample/static/js/runtime-main.adfaf877.js",
+    "runtime-main.js.map": "/react-sample/static/js/runtime-main.adfaf877.js.map",
+    "static/js/2.f7b4add9.chunk.js": "/react-sample/static/js/2.f7b4add9.chunk.js",
+    "static/js/2.f7b4add9.chunk.js.map": "/react-sample/static/js/2.f7b4add9.chunk.js.map",
+    "index.html": "/react-sample/index.html",
+    "precache-manifest.005f3aaabdceff39d464ad7eb79a3539.js": "/react-sample/precache-manifest.005f3aaabdceff39d464ad7eb79a3539.js",
+    "service-worker.js": "/react-sample/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-sample/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f7b4add9.chunk.js.LICENSE.txt": "/react-sample/static/js/2.f7b4add9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-sample/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e22ee030.js",
+    "static/js/runtime-main.adfaf877.js",
     "static/js/2.f7b4add9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d6076e89.chunk.js"
+    "static/js/main.cab7e8b5.chunk.js"
   ]
 }
